@@ -1,0 +1,24 @@
+h1 {
+    color: blue;
+    text-align: center;
+  }
+  
+p {
+    text-decoration: aqua;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    border: 20px solid powderblue;
+  }
+body {
+    background-color: aqua;
+}
+
+h1
+{
+    fill: purple;
+}
